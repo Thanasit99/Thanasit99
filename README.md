@@ -1,13 +1,14 @@
 ## Hello! 👋
 
 - I'm Thanasit P. A Senior AI Engineering Student at Chulalongkorn University.
-- I mainly work on Data Science, Data Analytics, AI, Front-end developer, and Business Intelligence.
+- I mainly work on Data Science, Data Analytics, AI, Front-end developer, and Business Intelligence. Now I have been working as front developer for a year my goal is to learn backend to reach full stack
 - Expected Graduation: May 2024. Check out my resume [here](https://docs.google.com/document/d/1Adoyt-795f1TgPYl85lB6zalRw4vUSLiaZ0gWFVAcz8/edit).
 
 ### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
 
 ### AI / ML / Data Science
 
